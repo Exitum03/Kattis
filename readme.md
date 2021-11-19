@@ -1,3 +1,3 @@
-# Kattis Problems!
+# Programming Problems!
 I already have so many problems in life what am I doing...
 
